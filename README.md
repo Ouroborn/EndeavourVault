@@ -1,3 +1,5 @@
+<img width="1920" height="1020" alt="Снимок экрана 2025-10-31 185557" src="https://github.com/user-attachments/assets/32c7052b-e452-4e41-9b76-df90f4180ff5" />
+
 ## English (EN)
 
 ### About
