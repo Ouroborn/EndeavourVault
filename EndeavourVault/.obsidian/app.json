@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Other/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Archive"
+}

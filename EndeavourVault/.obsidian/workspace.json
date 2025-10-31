@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "da7cc08f2f7e01a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c774502a66794bfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48965602d32be756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Themes/Welcome.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9709a5eec61a11b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb97668c0df087aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa85eb75af52de45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cfa671b4939927e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "46265b709fd8356e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "a705fca829cca69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54a1976f9339308",
+        "type": "tabs",
+        "dimension": 52.818627450980394,
+        "children": [
+          {
+            "id": "6816050ab33b5da9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "f9f4a5d86b90266d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "c1b8e45f2458951f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cd491899530f8869",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f5211f2f63f04ecb",
+        "type": "tabs",
+        "dimension": 47.181372549019606,
+        "children": [
+          {
+            "id": "4fa5c8a002db8521",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "91e6322459aca0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "omnisearch:Omnisearch": false,
+      "github-sync:Sync with Remote": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "48965602d32be756",
+  "lastOpenFiles": [
+    "Daily/31-10-2025.md",
+    "Archive/Themes/Welcome.md",
+    "Other/Attachments/Workspace.png",
+    "attachments/Снимок экрана 2025-10-31 185557.png",
+    "attachments",
+    "Daily/01-11-2025.md",
+    "Other/Templates/daily_template.md",
+    "Other/Templates/default_template.md",
+    "Archive/Themes/YouTube.md",
+    "Archive/Themes/GitHub.md",
+    "Themes/Untitled.md",
+    "Archive/Untitled.md",
+    "Archive/Themes",
+    "Ежедневные заметки/30-10-2025.md",
+    "Архив/Без названия.md",
+    "Без названия.base",
+    "Архив.md",
+    "Archive",
+    "Other/Templates",
+    "Other/Attachments",
+    "Other",
+    "Темы/зачем темы.md",
+    "o.md",
+    "Вложения",
+    "Archive/Themes",
+    "data",
+    "Добро пожаловать.md"
+  ]
+}
